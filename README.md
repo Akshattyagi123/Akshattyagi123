@@ -1,4 +1,4 @@
-<h1> Hello there! I'm Aditya Raj.<img src="Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+<h1> Hello there! I'm Akshat Tyagi.<img src="Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+new+skills+🚀+;Exploring+the+world+🌎+;Creating+awesome+projects+👨‍💻+;Let's+connect+on+LinkedIn+🤝)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 
 - 🌱 I'm enchanted by the MERN stack's potential and have shifted my attention to mastering its robust features.
 
-- 📫 How to reach me **adityavishal903@gmail.com**
+- 📫 How to reach me **akshatt961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
